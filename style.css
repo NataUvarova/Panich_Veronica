@@ -1,0 +1,49 @@
+body{
+  font-family: sans-serif;
+  background-color: #a1c4bd;
+  margin:0;
+}
+h1{
+    text-align: center;
+    color:#dae7ed;
+}
+h2{
+    text-align: center;
+}
+img{
+    width:350px;
+}
+nav{
+    text-align: center;
+    padding:10px;
+}
+p{
+    font-size:20px;
+}
+
+header{
+    background-color: #6d8994;
+    padding:20px;
+    margin:0px;
+}
+a{
+    color:white;
+}
+.iframe{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}
+main{
+    padding:10px;
+}
+
+footer p{
+    text-align: center;
+    color:white;
+}
+footer{
+    background-color: #5a6b73;
+    padding: 20px;
+}
